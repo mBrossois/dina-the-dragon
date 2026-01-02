@@ -1,0 +1,20 @@
+:root {
+  background: black;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+#canvas {
+  height: 100%;
+  width: 100%;
+  max-width: 1080px;
+  max-height: 720px;
+}
